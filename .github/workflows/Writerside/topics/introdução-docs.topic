@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Documentação" id="introdução-docs" help-id="Section-Starting-Page">
+
+<!--    A section combines multiple topics dedicated to a specific subject.
+            Add a starting page to provide an overview of the topics in the section.
+            Start with two topics you want to promote in the <spotlight> group,
+            several important topics in the <primary> group (for example, where to start),
+            several less important topics in the <secondary> group (for example, more advanced topics),
+            and optionally add any other relevant topics in the <misc> group as cards and lists of links
+            (maybe related topics from other sections).
+            Only the spotlight section is limited to two topics.
+            For other groups, try to keep the number between 2 and 6, but you can add more if necessary.-->
+
+    <section-starting-page>
+        <title>Documentação</title>
+        <description>
+            Aqui você poderá consultar a documentação e ultilitários para os serviços da LeafPlugins.
+        </description>
+
+        <!--    Add up to 2 topics that you want to promote. Use the "bagde", "image", or "icon" attribute to set an icon.    -->
+        <spotlight>
+            <card href="https://leafplugins.com/dashboard" icon="user-icon.png" summary="Acesse sua conta para gerenciar suas licenças.">Área do Cliente</card>
+            <card href="termos-serviços.md" icon="paper-icon.png" summary="Acesse nossos termos de serviço, e fique por dentro dos seus direitos.">Termos de Serviço</card>
+        </spotlight>
+        <!--    Optionally add additional cards and links to topics that are not in this section but may be relevant.    -->
+        <misc>
+
+            <cards narrow="false">
+                <title>Serviço de Consulta(Ultilitários)</title>
+                <a href="versões-premium.md" summary="Clique aqui para saber com mais detalhes sobre nossos serviços.">🍁 Introdução ao nossos serviços.</a>
+                <a href="versões-premium.md" summary="Clique aqui para saber como usar nossas versões aprimoradas.">💎 Como usar as versões premium.</a>
+                <a href="conditions.md" summary="Clique aqui para saber sobre as conditions em nosso plugins.">🔖 Como usar as conditions.</a>
+                <a href="introdução-serviços.md" summary="Clique aqui para saber mais sobre as dependências de nossos serviços.">📁 Depêndencias e Utilitários.</a>
+                <a href="criação-items.md" summary="Clique aqui para saber mais sobre a criação de items em nossos plugins.">📖 Criação de items.</a>
+                <a href="api-desenvolvedores.md" summary="Clique aqui para saber mais sobre nossa API de desenvolvimento">🔓 API para desenvolvimento.</a>
+            </cards>
+
+            <cards narrow="true">
+                <title>Serviço de Consulta(Plugins)</title>
+                <card href="LeafPunish.md" image="leafpunish.webp" summary="Torne a gestão de seu servidor mais eficaz com um sistema de punições avançado."/>
+                <card href="LeafGuilds.md" image="leafguilds.webp" summary="Um sistema de clãs e guildas simples é dinâmico baseado em servidores como hypixel."/>
+                <card href="LeafX1.md" image="leafx1.webp" summary="Um plugin de duelos com sistema de apostas, duelos e muito mais!"/>
+                <card href="LeafTags.md" image="leaftags.webp" summary="Altere o ambiente visual de seu servidor com nosso sistema de tags."/>
+                <card href="LeafCombatlog.md" image="leafcombatlog.webp" summary="Torne o PVP do seu servidor mais dinâmico com sistemas exclusivos!"/>
+                <card href="LeafMito.md" image="leafmito.webp" summary="Torne as disputas de pvp mais competitivas com nosso incrível sistema de mito."/>
+                <card href="LeafMedals.md" image="leafmedals.webp" summary="Recompense seus jogadores com nosso sistema de medalhas único."/>
+                <card href="LeafHideLogs.md" image="leafhidelog.webp" summary="Remova aquelas logs indesejadas que não irão afetar no desempenho do seu servidor."/>
+                <card href="LeafStatsView.md" image="leafstatsview.webp" summary="Transmita mensagens ou informações customizadas através da actionbar sempre que olhar para outro jogador."/>
+                <card href="LeafScore.md" image="leafscore.webp" summary="Aprimore a identidade visual de seu servidor com nosso plugin de scoreboard."/>
+                <card href="LeafDiscord.md" image="leafdiscord.webp" summary="Uma dependência opcional usada para anunciar mensagens(webhooks) em seu servidor no discord."/>
+            </cards>
+        </misc>
+    </section-starting-page>
+
+</topic>

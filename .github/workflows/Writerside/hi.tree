@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Documentação e Ultilitários"
+                 start-page="introdução-docs.topic">
+
+        <toc-element topic="introdução-docs.topic"/>
+        <toc-element topic="termos-serviços.md"/>
+        <toc-element toc-title="Outros" hidden="false">
+        <toc-element topic="introdução-serviços.md"/>
+        <toc-element topic="versões-premium.md"/>
+        <toc-element topic="conditions.md"/>
+        <toc-element topic="criação-items.md"/>
+        <toc-element topic="api-desenvolvedores.md"/>
+        <toc-element topic="dependências-ultilitários.md"/>
+    </toc-element>
+    <toc-element toc-title="Plugins" hidden="false">
+    <toc-element toc-title="Administração" hidden="false">
+        <toc-element topic="LeafPunish.md"/>
+    </toc-element>
+    <toc-element toc-title="Customização" hidden="false">
+        <toc-element topic="LeafTags.md"/>
+        <toc-element topic="LeafMedals.md"/>
+    </toc-element>
+    <toc-element toc-title="Combate" hidden="false">
+        <toc-element topic="LeafCombatlog.md"/>
+        <toc-element topic="LeafMito.md"/>
+        <toc-element topic="LeafX1.md"/>
+    </toc-element>
+    <toc-element toc-title="Ultilidades" hidden="false">
+        <toc-element topic="LeafStatsView.md"/>
+        <toc-element topic="LeafHideLogs.md"/>
+        <toc-element topic="LeafScore.md"/>
+    </toc-element>
+    <toc-element toc-title="Grupos" hidden="false">
+        <toc-element topic="LeafGuilds.md"/>
+    </toc-element>
+    <toc-element toc-title="Dependências" hidden="false">
+        <toc-element topic="LeafDiscord.md"/>
+    </toc-element>
+    </toc-element>
+</instance-profile>
