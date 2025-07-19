@@ -15,7 +15,7 @@
     <p><control>Observação:</control> Este plugin não possui permissões ou placeholders por padrão. Para configurar você deve acessar o arquivo de configuração <code>config.yml</code></p>
 </tip>
 
-## Ultilitários
+## Utilitários
 
 <tabs>
     <tab title="Comandos">
@@ -36,3 +36,12 @@
 <secondary-label ref="breve"/>
 
 <p>Logo abaixo estaremos disponibilizandos alguns tutoriais para sanar dúvidas em relação ao plugin.
+
+<seealso title="Veja mais sobre">
+    <category ref="wrs">
+        <a href="dependências-utilitários.md"/>
+        <a href="versões-premium.md"/>
+        <a href="criação-items.md"/>
+        <a href="conditions.md"/>
+    </category>
+</seealso>

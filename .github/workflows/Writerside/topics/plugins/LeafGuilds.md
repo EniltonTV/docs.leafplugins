@@ -1,5 +1,5 @@
 # LeafGuilds
-<primary-label ref="jetbrains"/>
+<secondary-label ref="premium"/>
 
 <p>Um sistema de clãs & guildas simples é dinâmico.</p>
 
@@ -10,13 +10,13 @@
         <p>nChat e LegendChat & PlaceholderAPI;</p>
     </li>
     <li>
-        <p>Bungeecord(Apenas comunicação)</p>
+        <p>Bungeecord (Apenas comunicação)</p>
     </li>
     <li>
         <p>nLogin - Notifique sempre que um membro logar após autenticação;</p>
     </li>
     <li>
-        <p>Suporte para economias(Clique aqui para consultar as economias disponíveis);</p>
+        <p>Suporte para economias (<a href="dependências-utilitários.md">Clique aqui</a> para consultar as economias disponíveis);</p>
     </li>
 </list>
 
@@ -38,7 +38,7 @@
     </list>
 </procedure>
 
-## Ultilitários
+## Utilitários
 
 <tabs>
     <tab title="Placeholders">
@@ -101,3 +101,12 @@
 <secondary-label ref="breve"/>
 
 <p>Logo abaixo estaremos disponibilizandos alguns tutoriais para sanar dúvidas em relação ao plugin.
+
+<seealso title="Veja mais sobre">
+    <category ref="wrs">
+        <a href="dependências-utilitários.md"/>
+        <a href="versões-premium.md"/>
+        <a href="criação-items.md"/>
+        <a href="conditions.md"/>
+    </category>
+</seealso>

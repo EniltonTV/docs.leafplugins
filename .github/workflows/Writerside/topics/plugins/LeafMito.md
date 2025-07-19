@@ -33,7 +33,7 @@
     </list>
 </procedure>
 
-## Ultilitários
+## Utilitários
 
 <tabs>
     <tab title="Placeholders">
@@ -89,3 +89,12 @@ Abaixo você poderá consultar os arquivos de configuração que este plugin dis
         </def>
     </deflist>
 </chapter>
+
+<seealso title="Veja mais sobre">
+    <category ref="wrs">
+        <a href="dependências-utilitários.md"/>
+        <a href="versões-premium.md"/>
+        <a href="criação-items.md"/>
+        <a href="conditions.md"/>
+    </category>
+</seealso>

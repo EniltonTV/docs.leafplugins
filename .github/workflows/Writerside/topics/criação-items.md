@@ -29,7 +29,7 @@
 
 <chapter title="Criação de items padrão" collapsible="true">
         <p>
-            Para criar items por ID(Veja se sua versão é compatível com está opção) basta seguir este exemplo abaixo:
+            Para criar items por ID (Veja se sua versão é compatível com está opção) basta seguir este exemplo abaixo:
             <code-block lang="yaml">
                 items:
                 # Não altere o ID dos seguintes itens: mito-atual, mito-nenhum, top-list

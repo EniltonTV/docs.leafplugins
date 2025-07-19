@@ -8,7 +8,7 @@
 
 <list>
     <li>
-        <p>Tags por textura(ItemsAdder, Oraxem e etc);</p>
+        <p>Tags por textura (ItemsAdder, Oraxem e etc);</p>
     </li>
     <li>
         <p>LuckPerms/PermissionsEX - Altere tag sempre que mudar de cargo;</p>
@@ -20,7 +20,7 @@
         <p>TAB - Caso esteja com problema para usar, clique aqui;</p>
     </li>
     <li>
-        <p>Gradiente/Cores hex(ou RGB) - Apartir da versão 1.16+ será possível deixar sua tag mais style;</p>
+        <p>Gradiente/Cores hex ou RGB - Apartir da versão 1.16+ será possível deixar sua tag mais style;</p>
     </li>
 </list>
 
@@ -41,7 +41,7 @@ exclusivas.</p>
     </step>
 </procedure>
 
-## Ultilitários
+## Utilitários
 
 <tabs>
     <tab title="Placeholders">
@@ -114,3 +114,12 @@ exclusivas.</p>
         </def>
     </deflist>
 </chapter>
+
+<seealso title="Veja mais sobre">
+    <category ref="wrs">
+        <a href="dependências-utilitários.md"/>
+        <a href="versões-premium.md"/>
+        <a href="criação-items.md"/>
+        <a href="conditions.md"/>
+    </category>
+</seealso>

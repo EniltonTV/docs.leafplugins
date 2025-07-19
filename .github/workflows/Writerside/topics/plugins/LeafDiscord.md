@@ -30,3 +30,12 @@
         </def>
     </deflist>
 </chapter>
+
+<seealso title="Veja mais sobre">
+    <category ref="wrs">
+        <a href="dependências-utilitários.md"/>
+        <a href="versões-premium.md"/>
+        <a href="criação-items.md"/>
+        <a href="conditions.md"/>
+    </category>
+</seealso>

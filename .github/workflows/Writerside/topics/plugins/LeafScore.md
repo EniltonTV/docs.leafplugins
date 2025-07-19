@@ -11,10 +11,10 @@
 
 <list>
     <li>
-        <p>Gradiente/Cores hex(ou RGB) - Apartir da versão 1.16+ será possível deixar sua scoreboard mais style;</p>
+        <p>Gradiente/Cores hex ou RGB - Apartir da versão 1.16+ será possível deixar sua scoreboard mais style;</p>
     </li>
     <li>
-        WorldGuard - Crie scoreboards por mundo e regiões(Necessário worldguard para criar scoreboards por regiões);
+        WorldGuard - Crie scoreboards por mundo e regiões (Necessário worldguard para criar scoreboards por regiões);
     </li>
     <li>
         <p>Sistema de conditions & animações para scoreboard;</p>
@@ -24,7 +24,7 @@
     </li>
 </list>
 
-## Ultilitários
+## Utilitários
 
 <tabs>
     <tab title="Permissões">
@@ -53,3 +53,12 @@
 <secondary-label ref="breve"/>
 
 <p>Logo abaixo estaremos disponibilizandos alguns tutoriais para sanar dúvidas em relação ao plugin.</p>
+
+<seealso title="Veja mais sobre">
+    <category ref="wrs">
+        <a href="dependências-utilitários.md"/>
+        <a href="versões-premium.md"/>
+        <a href="criação-items.md"/>
+        <a href="conditions.md"/>
+    </category>
+</seealso>

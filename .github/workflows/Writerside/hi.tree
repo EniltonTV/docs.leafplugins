@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi"
-                 name="Documentação e Ultilitários"
+                 name="Documentação &amp; Utilitários"
                  start-page="introdução-docs.topic">
 
         <toc-element topic="introdução-docs.topic"/>
@@ -14,7 +14,7 @@
         <toc-element topic="conditions.md"/>
         <toc-element topic="criação-items.md"/>
         <toc-element topic="api-desenvolvedores.md"/>
-        <toc-element topic="dependências-ultilitários.md"/>
+        <toc-element topic="dependências-utilitários.md"/>
     </toc-element>
     <toc-element toc-title="Plugins" hidden="false">
     <toc-element toc-title="Administração" hidden="false">

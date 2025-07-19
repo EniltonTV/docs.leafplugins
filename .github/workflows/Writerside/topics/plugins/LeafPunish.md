@@ -29,21 +29,21 @@ exclusivas.
             <p>BungeeCord - Aplique punições pelo servidor proxy;</p>
         </li>
         <li>
-            <p>Anuncie quantas punições foram aplicadas durante um período(Customizável);</p>
+            <p>Anuncie quantas punições foram aplicadas durante um período (Customizável);</p>
         </li>
         <li>
             <p>Sistema de <code>/punir, /historic e /punishesments</code> em menu;</p>
         </li>
         <li>
-            <p>Servidor de banimento(Direcione os jogadores para um servidor sempre que ele foram banidos)</p>
+            <p>Servidor de banimento (Direcione os jogadores para um servidor sempre que ele foram banidos)</p>
         </li>
         <li>
-            <p>Punições progressivas(A cada punição sofrida pelo mesmo motivo maior será a penalidade);</p>
+            <p>Punições progressivas (A cada punição sofrida pelo mesmo motivo maior será a penalidade);</p>
         </li>
     </list>
 </procedure>
 
-## Ultilitários
+## Utilitários
 
 <tabs>
     <tab title="Placeholders">
@@ -132,3 +132,12 @@ exclusivas.
         </def>
     </deflist>
 </chapter>
+
+<seealso title="Veja mais sobre">
+    <category ref="wrs">
+        <a href="dependências-utilitários.md"/>
+        <a href="versões-premium.md"/>
+        <a href="criação-items.md"/>
+        <a href="conditions.md"/>
+    </category>
+</seealso>

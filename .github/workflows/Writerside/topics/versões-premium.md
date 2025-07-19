@@ -1,4 +1,4 @@
-# Usando as versões premium
+# Usando as Versões Premium
 
 ### Como funciona?
 Atualmente, você só deve configurar o IP e porta da maneira correta. Caso precise de mais um IP, você pode conseguir comprando mais uma licença completa do plugin. Caso precise de mais uma porta para o mesmo IP, você pode adquirir por apenas R$5,00 para o IP que precisar.

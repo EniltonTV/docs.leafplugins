@@ -1,5 +1,4 @@
-# Termos de Serviço
-
+# Termos de serviço
 
 Nós temos os nossos próprios termos de uso/serviço sobre nossos produtos.
 

@@ -30,12 +30,12 @@
             <p>Animações especiais - Adicione animações de vitória para o vencedor;</p>
         </li>
         <li>
-            <p>Ranqueamento - Filtre os melhores jogadores em abates, KDR(Semanal, mensalmente & total);</p>
+            <p>Ranqueamento - Filtre os melhores jogadores em abates, KDR (Semanal, mensalmente & total);</p>
         </li>
     </list>
 </procedure>
 
-## Ultilitários
+## Utilitários
 
 <tabs>
     <tab title="Permissões">
@@ -74,3 +74,12 @@
 <secondary-label ref="breve"/>
 
 <p>Logo abaixo estaremos disponibilizandos alguns tutoriais para sanar dúvidas em relação ao plugin.</p>
+
+<seealso title="Veja mais sobre">
+    <category ref="wrs">
+        <a href="dependências-utilitários.md"/>
+        <a href="versões-premium.md"/>
+        <a href="criação-items.md"/>
+        <a href="conditions.md"/>
+    </category>
+</seealso>
