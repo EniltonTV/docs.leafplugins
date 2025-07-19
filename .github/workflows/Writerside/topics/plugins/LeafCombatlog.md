@@ -1,4 +1,4 @@
-# ️ LeafCombatlog
+# ️LeafCombatlog
 <secondary-label ref="premium"/>
 
 <p>Torne o PVP do seu servidor mais dinâmico com sistemas exclusivos!</p>
