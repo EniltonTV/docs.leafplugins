@@ -29,7 +29,7 @@
         <toc-element topic="LeafMito.md"/>
         <toc-element topic="LeafX1.md"/>
     </toc-element>
-    <toc-element toc-title="Ultilidades" hidden="false">
+    <toc-element toc-title="Utilidades" hidden="false">
         <toc-element topic="LeafStatsView.md"/>
         <toc-element topic="LeafHideLogs.md"/>
         <toc-element topic="LeafScore.md"/>
