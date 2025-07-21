@@ -4,17 +4,16 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <variables>
-        <primary-color>iris</primary-color>
+        <primary-color>#4b14cc</primary-color>
         <color-preset>soft</color-preset>
-        <custom-favicons>leaf.svg</custom-favicons>
         <header-logo>leaf.svg</header-logo>
+        <custom-favicons>leaf.svg</custom-favicons>
         <product-web-url>https://leafplugins.com/</product-web-url>
         <link-color>iris</link-color>
-        <download-title>Acesse nosso Discord para suporte.</download-title>
+        <download-title>Discord</download-title>
         <download-page>https://discord.gg/3p84x3tD3a</download-page>
         <showDownloadButton>true</showDownloadButton>
     </variables>
-
     <footer>
         <copyright>2022–2025 Todos os direitos reservados</copyright>
         <notice>CNPJ: 57.222.714/0001-61</notice>

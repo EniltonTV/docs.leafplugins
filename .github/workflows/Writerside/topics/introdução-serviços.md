@@ -1,4 +1,4 @@
-# Introdução
+# Introdução de Serviços
 
 <tip>
     <p>Para ultilização de nossos serviços sejam eles <control>GRATUITOS ou PAGOS</control> recomendamos a leitura de nossos <a href="termos-serviços.md">Termos de Serviços</a> para que esteja ciente de possíveis adversões.</p>
@@ -42,18 +42,18 @@ Abaixo você poderá checar mais sobre a compatibilidade de nossos plugins.
         <td width="1"></td>
         <td>Paper & Derivados</td>
         <td>Compatibilidade com todos nossos plugins.</td>
-        <td><icon src="../images/filled-checked-checkbox (2).png"/></td>
+        <td><icon src="../images/filled-checked-checkbox.png"/></td>
     </tr>
     <tr>
         <td width="1"></td>
         <td>Bungeecord</td>
         <td>Compatibilidade em plugins específicos como Punish.</td>
-        <td><icon src="../images/filled-checked-checkbox (2).png"/></td>
+        <td><icon src="../images/filled-checked-checkbox.png"/></td>
     </tr>
     <tr>
         <td width="1"></td>
         <td>Velocity</td>
         <td>Possui compatibilidade apenas via snap.</td>
-        <td><icon src="../images/filled-checked-checkbox (2).png"/></td>
+        <td><icon src="../images/filled-checked-checkbox.png"/></td>
     </tr>
 </table>

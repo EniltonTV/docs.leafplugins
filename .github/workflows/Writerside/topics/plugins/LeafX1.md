@@ -71,9 +71,17 @@
 <include from="arquivos-x1.md" element-id="arquivos-x1"></include>
 
 ## Tutoriais
-<secondary-label ref="breve"/>
 
 <p>Logo abaixo estaremos disponibilizandos alguns tutoriais para sanar dúvidas em relação ao plugin.</p>
+
+<chapter title="Clique aqui" collapsible="true">
+    <deflist>
+        <def title="Como usar o LeafX1?">
+            <p>Abaixo você aprenderá a como criar arenas e configura-lás.</p>
+            <video src="https://www.youtube.com/watch?v=beva9tPp_rE"/>
+        </def>
+    </deflist>
+</chapter>
 
 <seealso title="Veja mais sobre">
     <category ref="wrs">

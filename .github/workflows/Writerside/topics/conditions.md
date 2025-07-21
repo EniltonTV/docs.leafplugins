@@ -1,4 +1,4 @@
-# Usando as Conditions
+# Como usar as Conditions
 
 <p>As conditions ou "condições" são valores atribuídos para checagens & formatação em nossos sistemas de mensagens.</p>
 

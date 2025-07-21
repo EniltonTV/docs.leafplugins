@@ -1,4 +1,4 @@
-# Termos de serviço
+# Termos de Serviço
 
 Nós temos os nossos próprios termos de uso/serviço sobre nossos produtos.
 
@@ -49,6 +49,33 @@ Cada solicitação será analisada pela equipe da Leaf Plugins e, em caso de apr
 Após o término do prazo de 07 (sete) dias, caso o usuário solicite o cancelamento e reembolso, <control>este fica ciente de que a única opção disponível para reembolso é em forma de saldo no Site</control>. No entanto, exceções podem ser consideradas mediante a submissão de um pedido acompanhado de uma razão válida. Tais pedidos passarão por uma análise e, caso sejam aprovados, o reembolso será efetuado exclusivamente em forma de saldo.
 </p>
 
+<table width="900" style="header-row" border="true">
+    <tr>
+        <td><control>Compras</control></td>
+        <td><control>Observação</control></td>
+        <td><control>Dinheiro em 7 dias</control></td>
+        <td><control>Saldo em 7+ dias</control></td>
+    </tr>
+    <tr>
+        <td>Licenças</td>
+        <td width="300">O reembolso em dinheiro é exclusivamente aplicável a compras realizadas sem a ultilização de saldo</td>
+        <td><icon src="../images/filled-checked-checkbox.png"/></td>
+        <td><icon src="../images/filled-checked-checkbox.png"/></td>
+    </tr>
+    <tr>
+        <td>Recargas</td>
+        <td></td>
+        <td><icon src="../images/filled-checked-checkbox.png"/></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Licenças extras</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
 ## Suporte & Atualizações
 
 <p>
@@ -89,4 +116,3 @@ Ao utilizar nossos serviços o usuário consente com o tratamento desses dados.
 <p>
     <control>Ao utilizar os nossos plugins, você concorda em cumprir estes Termos de Uso e quaisquer outros termos ou políticas relevantes. Em caso de violação destes termos, a Leaf Plugins se reserva o direito de tomar as medidas apropriadas</control>.
 </p>
-

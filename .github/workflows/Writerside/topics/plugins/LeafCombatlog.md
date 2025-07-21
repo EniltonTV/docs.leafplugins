@@ -1,4 +1,4 @@
-# ️LeafCombatlog
+# ️ LeafCombatLog
 <secondary-label ref="premium"/>
 
 <p>Torne o PVP do seu servidor mais dinâmico com sistemas exclusivos!</p>
@@ -12,7 +12,7 @@
 </list>
 
 <tip>
-    Recomendamos o uso do plugin Protocollib para um sistema mais aprimorado e otimizado.
+    Recomendamos o uso do plugin Protocolib para um sistema mais aprimorado e otimizado.
     (O plugin conta com um sistema próprio caso não deseje)
 </tip>
 

@@ -12,14 +12,14 @@
     <tr>
         <td width="1"></td>
         <td><emphasis>1.8, 1.9, 1.10, 1.11, 1.12</emphasis></td>
-        <td><icon src="../images/filled-checked-checkbox (2).png"/></td>
-        <td><icon src="../images/filled-checked-checkbox (2).png"/></td>
+        <td><icon src="../images/filled-checked-checkbox.png"/></td>
+        <td><icon src="../images/filled-checked-checkbox.png"/></td>
     </tr>
     <tr>
         <td width="1"></td>
         <td><emphasis>1.13+</emphasis></td>
         <td></td>
-        <td><icon src="../images/filled-checked-checkbox (2).png"/></td>
+        <td><icon src="../images/filled-checked-checkbox.png"/></td>
     </tr>
 </table>
 
@@ -49,7 +49,7 @@
             Para a criação de items por <code>raw name</code> você só precisará atribuir o nome do item que deseja e sua <code>data</code> um simples exemplo: <code>WOOD:0</code> bloco de madeira sem variações.
         </p>
 </chapter>
-<chapter title="Criação de heads(cabeças) personalizadas." collapsible="true">
+<chapter title="Criação de heads (cabeças) personalizadas." collapsible="true">
         <p>Para encontrar heads personalizadas você pode acessar este site <a href="https://minecraft-heads.com/custom-heads">acessando aqui</a></p>
         <p>
             Introduza apenas o value da URL na opção <code>item</code>, seguindo este exemplo abaixo:<br>
@@ -72,7 +72,7 @@
             Você também poderá puxar a cabeça do jogador que abrir um menu de interação atribuindo o valor <code>head:player</code> (Não é preciso ultilizar nicknames apenas deixar deste modo).
         </p>
 </chapter>
-<chapter title="Criando items personalizados(Custom Model Data & Items Adders)" collapsible="true">
+<chapter title="Criando items personalizados (Custom Model Data & Items Adders)" collapsible="true">
         <p>
             Para criação de items model data você pode optar por usar id ou name. Basta adicionar o <code>id</code> do custom model após a variação de item(Caso o item não possua variação ultilize o valor <code>0</code>)
             <br><br>

@@ -19,37 +19,37 @@
         <td width="1"></td>
         <td>Vault</td>
         <td>vault</td>
-        <td><icon src="../images/filled-checked-checkbox (2).png"/></td>
+        <td><icon src="../images/filled-checked-checkbox.png"/></td>
     </tr>
     <tr>
         <td width="1"></td>
         <td>NextEconomy</td>
         <td>nexteconomy</td>
-        <td><icon src="../images/filled-checked-checkbox (2).png"/></td>
+        <td><icon src="../images/filled-checked-checkbox.png"/></td>
     </tr>
     <tr>
         <td width="1"></td>
         <td>EcoSystem/Economy++</td>
         <td>ecosystem</td>
-        <td><icon src="../images/filled-checked-checkbox (2).png"/></td>
+        <td><icon src="../images/filled-checked-checkbox.png"/></td>
     </tr>
     <tr>
         <td width="1"></td>
         <td>PlayerPoints</td>
         <td>playerpoints</td>
-        <td><icon src="../images/filled-checked-checkbox (2).png"/></td>
+        <td><icon src="../images/filled-checked-checkbox.png"/></td>
     </tr>
     <tr>
         <td width="1"></td>
         <td>NextCash</td>
         <td>nextcash</td>
-        <td><icon src="../images/filled-checked-checkbox (2).png"/></td>
+        <td><icon src="../images/filled-checked-checkbox.png"/></td>
     </tr>
     <tr>
         <td width="1"></td>
         <td>ypoints</td>
         <td>ypoints</td>
-        <td><icon src="../images/filled-checked-checkbox (2).png"/></td>
+        <td><icon src="../images/filled-checked-checkbox.png"/></td>
     </tr>
 </table>
 
@@ -68,13 +68,13 @@
         <td width="1"></td>
         <td>Decent Holograms</td>
         <td>É moderno e não causa problemas.</td>
-        <td><icon src="../images/filled-checked-checkbox (2).png"/></td>
+        <td><icon src="../images/filled-checked-checkbox.png"/></td>
     </tr>
     <tr>
         <td width="1"></td>
         <td>Holographics Displays</td>
         <td>Possui uma API defeituosa, pode não funcionar bem em seu servidor.</td>
-        <td><icon src="../images/filled-checked-checkbox (2).png"/></td>
+        <td><icon src="../images/filled-checked-checkbox.png"/></td>
     </tr>
     <tr>
         <td width="1"></td>
@@ -108,9 +108,9 @@
     </p>
 </chapter>
 
-## Ultilitários
+## Utilitários
 
-<p>Abaixo estaremos disponibilizando documentações externas que poderam lhe auxiliar na busca de items como id's de items, sons, partículas entre outras.</p>
+<p>Abaixo estaremos disponibilizando documentações externas que poderam lhe auxiliar na busca de items como id's de materiais, sons, partículas entre outras.</p>
 
 <chapter title="Lista de Sons" collapsible="true">
     <p>
