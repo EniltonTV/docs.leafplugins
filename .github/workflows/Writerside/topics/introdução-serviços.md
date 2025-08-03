@@ -9,7 +9,6 @@
 <p>A Leaf Plugins atua disponibilizando serviços pagos e gratuitos, suportando vesões atuais e legacy, abaixo você poderá checar as versões disponíveis.</p>
 
 ### Versões Legacy
-<secondary-label ref="version-1.7"/>
 <secondary-label ref="version-1.8"/>
 <secondary-label ref="version-1.12"/>
 

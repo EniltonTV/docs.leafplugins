@@ -8,7 +8,7 @@
 
 <list>
     <li>
-        Citzens - Crie um NPC para o mito atual(Para consultar as versões clique aqui);
+        Citzens - Crie um NPC para o mito atual (Para consultar as versões <a href="dependências-utilitários.md" anchor="depend-citzens"> clique aqui</a>);
     </li>
     <li>
         Decent Holograms/Holographics Displays - Crie hologramas para o mito;

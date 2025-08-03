@@ -17,7 +17,7 @@
         <p>LeafMedals - Definir medalhas automaticamente</p>
     </li>
     <li>
-        <p>TAB - Caso esteja com problema para usar, clique aqui;</p>
+        <p>TAB - Caso esteja com problema para usar, <a anchor="tab">clique aqui;</a></p>
     </li>
     <li>
         <p>Gradiente/Cores hex ou RGB - Apartir da versão 1.16+ será possível deixar sua tag mais style;</p>
@@ -108,7 +108,7 @@ exclusivas.</p>
 
 <chapter title="Clique aqui" collapsible="true">
     <deflist>
-        <def title="LeafTags + TAB como usar?">
+        <def id="tab" title="LeafTags + TAB como usar?">
             <p>Abaixo você aprenderá a como configurar o leaftags no plugin TAB.</p>
             <video src="https://youtu.be/OCjI5uqjLnY"/>
         </def>

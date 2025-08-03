@@ -7,7 +7,7 @@
 
 <list>
     <li>
-        <p>Suporte para economias(Clique aqui para consultar as economias disponíveis);</p>
+        <p>Suporte para economias (<a href="dependências-utilitários.md" anchor="economies">Clique aqui</a> para consultar as economias disponíveis);</p>
     </li>
 </list>
 

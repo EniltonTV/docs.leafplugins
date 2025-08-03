@@ -16,7 +16,7 @@
         <p>nLogin - Notifique sempre que um membro logar após autenticação;</p>
     </li>
     <li>
-        <p>Suporte para economias (<a href="dependências-utilitários.md">Clique aqui</a> para consultar as economias disponíveis);</p>
+        <p>Suporte para economias (<a href="dependências-utilitários.md" anchor="economies">Clique aqui</a> para consultar as economias disponíveis);</p>
     </li>
 </list>
 

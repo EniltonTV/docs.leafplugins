@@ -6,7 +6,7 @@
 
 ## Economias
 
-<p>Alguns de nossos plugins poderão exigir um sistema de economia para seu funcionamento, abaixo estaremos listando alguns plugins suportados por nossos sistemas.</p>
+<p id="economies">Alguns de nossos plugins poderão exigir um sistema de economia para seu funcionamento, abaixo estaremos listando alguns plugins suportados por nossos sistemas.</p>
 
 <table width="600" style="header-row" border="false">
     <tr>
@@ -90,7 +90,7 @@
 
 <p>Atualmente nossos plugins suportam apenas o citzens para criaçaõ de NPC's em nossos sistemas, abaixo estaremos listando o link de download respectivamente de versões(Você deverá usar a versão que corresponde ao seu servidor).</p>
 
-<chapter title="Versões" collapsible="true">
+<chapter id="depend-citzens" title="Versões" collapsible="true">
     <p>
         1.8-1.12.2: <a href="https://ci.citizensnpcs.co/job/citizens2/2639/"/><br>
         1.16.5: <a href="https://ci.citizensnpcs.co/job/citizens2/3478/"/> <br>
