@@ -3,6 +3,10 @@
 <labels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/labels.xsd">
 
+    <primary-label id="strawberry" name="" color="strawberry" short-name=""/>
+    <primary-label id="blue" name="" color="blue" short-name=""/>
+
+
     <secondary-label id="version-1.7" name="1.7" color="tangerine">Uma versão não muito versátil porém compatível apenas com Leaf Score.</secondary-label>
     <secondary-label id="version-1.8" name="1.8" color="purple"/>
     <secondary-label id="version-1.12" name="1.12" color="purple"/>
