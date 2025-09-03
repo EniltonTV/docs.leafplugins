@@ -6,18 +6,14 @@
     O Mídia Kit tem como objetivo estabelecer a clareza diante os valores da Leaf Plugins na hora de firmar divulgações que estejam intrinsecamente associadas à empresa. Buscamos criar uma rede colaborativa e de crescimento mútuo entre as partes.
 </p>
 
-## Sobre as responsabilidades do Parceiro e do Anunciante
+## Sobre as responsabilidades
 
 <p>
-    <control>Respeito às regras</control>: os parceiros/anunciantes devem manter respeito às regras citadas acima, assim como respeitar os <a href="../termos-serviços.md">Termos de Serviço</a> da Leaf Plugins e as <a href="https://discord.com/guidelines">Diretrizes</a> do Discord.
+    <control>Respeito às regras</control>: os parceiros, anunciantes, afiliados e influenciadores devem manter respeito às regras, assim como respeitar os <a href="termos-serviços.md">Termos de Serviço</a> da Leaf Plugins e as <a href="https://discord.com/guidelines">Diretrizes</a> do Discord.
 </p>
 
 <p>
     <control>Participação ativa</control>: é esperado que todos(as) os(as) envolvidos(as) participem frequentemente das atividades promovidas.
-</p>
-
-<p>
-    <control>Validade e benefícios</control>: os anúncios são feitos em períodos específicos, estabelecidos de duas formas: conforme a preferência de cada comprador e mediante a disponibilidade para soltar o anúncio – critério avaliado pela equipe da Leaf Plugins.
 </p>
 
 ## Da Renovação de Parcerias
@@ -32,16 +28,20 @@
     A continuidade da parceria depende estritamente do compromisso constante com os requisitos acordados e com os valores da empresa.
 </p>
 
-## Da Remoção de Parcerias e Anunciantes
+## Da Remoção
 
 <p>
     A Leaf Plugins poderá remover a parceria ou o anúncio caso as condições estabelecidas não sejam cumpridas.<br>
     <br>
-    Em situações de não conformidade com as diretrizes acordadas, a parceria poderá ser encerrada, preservando o respeito e a transparência.<br>
-    <br>
     Tanto o parceiro quanto o anunciante serão informados sobre qualquer alteração e a remoção será realizada de forma a garantir a continuidade das boas práticas por parte de ambos os lados.<br>
     <br>
-    A Leaf Plugins se reserva ao direito de banir permanentemente parceiros, anunciantes ou afiliados e também a suspender contas vinculadas nas nossas plataformas (Discord e Website), tal como seus representantes, caso seja comprovado algum crime ou delito.
+    A Leaf Plugins se reserva ao direito de banir permanentemente parceiros, anunciantes ou afiliados e também a suspender contas vinculadas nas nossas plataformas (Discord e Website), tal como seus representantes, caso seja comprovado algum crime ou delito.<br>
+    <br>
+    Todos(as) os(as) envolvidos(as) serão informados quanto a qualquer alteração neste documento ou se, por ventura, a parceria, anúncio, cupom de afiliado ou contrato como influenciador seja rompido.<br>
+    <br>
+    O afiliado tem direito a um cupom exclusivo para repassar aos seus indicados. Contudo, a Leaf Plugins se reserva o direito de remover o cupom de afiliado a qualquer momento caso o afiliado venha a descumprir as regras estabelecidas, demonstrar desrespeito com a equipe ou com outros membros da comunidade, ou praticar ações inadequadas que possam comprometer a imagem da Leaf Plugins.<br>
+    <br>
+    A remoção do cupom, nestes casos, será feita sem aviso prévio. O então afiliado pode vir a ser comunicado após a remoção acerca do motivo, a depender do crivo dos integrantes da equipe.
 </p>
 
 ## Das Condições de Cancelamento para Anunciantes
@@ -67,6 +67,8 @@
 ## Condições da Divulgação - Anúncios
 
 <p>
+    Os anúncios são feitos em períodos específicos, estabelecidos de duas formas: conforme a preferência de cada comprador e mediante a disponibilidade para soltar o anúncio – critério avaliado pela equipe da Leaf Plugins.<br>
+    <br>
     A contagem de dias para a divulgação começa a partir da data e hora da publicação inicial feita pela equipe da Leaf Plugins.<br>
     <br>
     Não será possível pausar ou adiar após o início da veiculação. A divulgação será executada conforme o cronograma acordado, sem interrupções, exceto em casos de problemas técnicos.<br>
@@ -84,14 +86,6 @@
     A equipe da Leaf Plugins se reserva ao direito de revisar textos submetidos para garantir que atendam uma comunicação assertiva, podendo realizar correções, mas sem deturpar o sentido. As correções passarão por análise do parceiro ou anunciante. 
 </p>
 
-## Da Remoção do Afiliado
-
-<p>
-    O afiliado tem direito a um cupom exclusivo para repassar aos seus indicados. Contudo, a Leaf Plugins se reserva o direito de remover o cupom de afiliado a qualquer momento caso o afiliado venha a descumprir as regras estabelecidas, demonstrar desrespeito com a equipe ou com outros membros da comunidade, ou praticar ações inadequadas que possam comprometer a imagem da Leaf Plugins.<br>
-    <br>
-    A remoção do cupom, nestes casos, será feita sem aviso prévio. O então afiliado pode vir a ser comunicado após a remoção acerca do motivo, a depender do crivo dos integrantes da equipe.
-</p>
-
 ## Suporte
 
 <p>
@@ -102,7 +96,7 @@
 
 <list type="none">
     <li>
-        <list type="bullet">
+        <list type="none">
         <li>
             Ao firmar uma parceria, adquirir um anúncio ou se tornar um afiliado, o usuário concorda com todos os termos e condições estabelecidos neste documento
         </li>

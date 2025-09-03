@@ -16,14 +16,17 @@
         <toc-element topic="dependências-utilitários.md"/>
             <toc-element topic="criação-items.md"/>
     </toc-element>
-    <toc-element toc-title="Arquivos de Consulta (Midia)" hidden="false">
+    <toc-element toc-title="Arquivos de Consulta (Mídia)" hidden="false">
         <toc-element topic="introdução.md"/>
         <toc-element topic="termos-midia.md"/>
         <toc-element topic="parcerias.md"/>
         <toc-element topic="beneficios.md"/>
         <toc-element topic="vantagens.md"/>
         <toc-element topic="anuncios.md"/>
-        <toc-element topic="programas.md"/>
+        <toc-element topic="afiliados.md"/>
+        <toc-element topic="restrições.md"/>
+        <toc-element topic="propostas.md"/>
+        <toc-element topic="influenciadores.md"/>
     </toc-element>
     <toc-element toc-title="Arquivos de Consulta (Plugins)" hidden="false">
     <toc-element toc-title="Administração" hidden="false">
@@ -50,5 +53,4 @@
     </toc-element>
         <toc-element toc-title="API Status" href="https://statuspage.freshping.io/64952-LeafPlugins"/>
         <toc-element toc-title="bStats" href="https://bstats.org/plugin/bukkit/LeafPlugins/20622"/>
-    <toc-element topic="Overview.md"/>
 </instance-profile>

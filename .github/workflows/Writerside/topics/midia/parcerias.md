@@ -1,4 +1,4 @@
-# Seja já um parceiro nosso
+# Seja um parceiro
 
 <p>
     A Leaf Plugins é uma empresa séria e dedicada ao desenvolvimento de plugins com foco em qualidade. Temos um portfólio sólido, reconhecimento no mercado e uma busca real pela inovação e o suporte contínuo. Nos orgulhamos em trazer produtos que agregam valor e profissionalismo à comunidade de Minecraft.

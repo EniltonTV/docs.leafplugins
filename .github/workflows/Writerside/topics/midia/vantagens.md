@@ -1,4 +1,4 @@
-# O que nós oferecemos para as Parceiras
+# Parcerias: o que oferecemos
 
 <p>
     Na Leaf, prezamos por parcerias que façam sentido para os dois lados. Por isso, é importante que você tenha conhecimento acerca do que nós temos a oferecer ao seu projeto.

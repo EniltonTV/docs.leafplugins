@@ -1,7 +1,7 @@
-# Benefícios por parte do(a) interessado(a)
+# Parcerias: o que solicitamos
 
 <p>
- Nós da leaf possuímos algumas exigências por parte de nossos parceiros que deverão ser cumpridas sendo algumas.
+ Nós da leaf possuímos algumas exigências por parte de nossos parceiros que deverão ser cumpridas, sendo algumas delas:
 </p>
 
 <list type="none">
@@ -17,10 +17,10 @@
                 Caso possuam um site com este recurso, é solicitado que a Leaf Plugins apareça na aba de parceiros, com nosso logo e hiperlink direcionado para o nosso site <a href="http://leafplugins.com"/>
             </li>
             <li>
-                Conceder as tags "Parceria", “Parceiro” ou "Leaf Plugins" aos representantes da loja no Discord (Flávio S. e Gabriel Gago) OBRIGATÓRIO;
+                Conceder as tags "Parceria", “Parceiro” ou "Leaf Plugins" aos representantes da loja no Discord (Flávio S. e Gabriel Gago) <control>OBRIGATÓRIO</control>;
             </li>
             <li>
-                Caso o servidor ou  site possua um sistema de cupons, solicitamos a criação de um cupom exclusivo de 15% (ou mais) para a Leaf Plugins (ex.: LEAF15);
+                Caso o servidor ou site possua este sistema, solicitamos a criação de um cupom exclusivo de 15% (ou mais) para a Leaf Plugins (ex.: LEAF15);
             </li>
             <li>
                 Realização de sorteios e/ou eventos que envolvam diretamente a parceria, por exemplo produtos limitados ou ofertas relâmpago.
@@ -30,5 +30,5 @@
 </list>
 
 <tip>
-    <p><control>Observação</control>: Não é permitido firmar parceria com lojas concorrentes ou conteúdos ilegais/imorais durante a vigência da parceria com a Leaf Plugins.</p>
+    <p><control>Observação</control>: Não é permitido firmar parceria com lojas concorrentes ou conteúdos ilegais/imorais durante a vigência da parceria.</p>
 </tip>

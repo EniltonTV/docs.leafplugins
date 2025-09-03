@@ -1,4 +1,4 @@
-# Sobre a LeafPlugins
+# Sobre a Leaf Plugins
 
 <p>
     A Leaf Plugins foi criada no dia 23 de abril de 2022 pelo desenvolvedor Flávio Soares, conhecido como Fleivius. Aos 16 anos de idade, Flávio teve a ideia de construir uma comunidade para programadores e amantes do jogo Minecraft.
@@ -19,15 +19,15 @@
 ## Nossa missão, visão e valores
 
 <p>
-    Missão: entregar plugins de Minecraft com qualidade ao invés de quantidade e trazer os preços mais acessíveis do mercado mundial.
+    <control>Missão</control>: entregar plugins de Minecraft com qualidade ao invés de quantidade e trazer os preços mais acessíveis do mercado mundial.
 </p>
 
 <p>
-    Visão: ser a maior e melhor loja de plugins para servidores de Minecraft do mundo até 2030.
+    <control>Visão</control>: ser a maior e melhor loja de plugins para servidores de Minecraft do mundo até 2030.
 </p>
 
 <p>
-    Valores: compromisso, transparência e respeito à vida, busca pela excelência, foco em inovar e no aprender, modernismo e minimalismo. 
+    <control>Valores</control>: compromisso, transparência e respeito à vida, busca pela excelência, foco em inovar e no aprender, modernismo e minimalismo. 
 </p>
 
 ## Leaf Plugins em números
@@ -57,7 +57,7 @@
             <tr>
                 <td width="1"></td>
                 <td><control>Compras totais</control></td>
-                <td>700</td>
+                <td>+700</td>
             </tr>
             <tr>
                 <td width="1"></td>
@@ -71,7 +71,7 @@
             </tr>
             <tr>
                 <td width="1"></td>
-                <td><control>Total de acessos ao site</control></td>
+                <td><control>Visualizações totais</control></td>
                 <td>+90.0000</td>
             </tr>
         </table>
