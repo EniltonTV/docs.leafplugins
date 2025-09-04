@@ -1,6 +1,6 @@
-# Influenciadores
+# Torne-se um(a) influenciador(a)
 
-### Faça parte do sistema de influenciadores
+## Vantagens
 
 <list type="none">
     <li>
@@ -21,9 +21,7 @@
     </li>
 </list>
 
-<p><br></p>
-
-### Requisitos
+## Requisitos
 
 <list type="none">
     <li>

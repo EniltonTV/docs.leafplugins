@@ -8,7 +8,7 @@
     <li>
         <list type="bullet">
             <li>
-                Criação de um canal exclusivo no Discord do servidor para divulgação da Leaf Plugins (promoções, novidades, lançamentos). Com direito a 1 marcação “everyone” por semana OBRIGATÓRIO;
+                Criação de um canal exclusivo no Discord do servidor para divulgação da Leaf Plugins (promoções, novidades, lançamentos). Com direito a 1 marcação “everyone” por semana <control>OBRIGATÓRIO</control>;
             </li>
             <li>
                 Inserção de um NPC ou mensagens automáticas no chat destacando que o servidor utiliza nossos plugins ou que somos parceiros oficiais;

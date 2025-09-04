@@ -1,4 +1,4 @@
-# Parcerias: propostas disponíveis
+# Propostas disponíveis
 
 <sup>Última atualização - 09/08/2025*</sup>
 
@@ -23,3 +23,10 @@
         </list>
     </li>
 </list>
+
+<seealso style="cards" title="Continue visualizando">
+    <category ref="wrs">
+        <a href="beneficios.md"/>
+        <a href="vantagens.md"/>
+    </category>
+</seealso>

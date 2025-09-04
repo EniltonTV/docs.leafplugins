@@ -306,7 +306,7 @@ Projetos relacionados a outros jogos ou outras iniciativas são sempre bem-vindo
 
 <seealso style="cards" title="Continue visualizando">
     <category ref="wrs">
-        <a href="beneficios.md"/>
-        <a href="vantagens.md"/>
+        <a href="restrições.md"/>
+        <a href="propostas.md"/>
     </category>
 </seealso>

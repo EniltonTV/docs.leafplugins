@@ -22,11 +22,11 @@
         <toc-element topic="parcerias.md"/>
         <toc-element topic="beneficios.md"/>
         <toc-element topic="vantagens.md"/>
-        <toc-element topic="anuncios.md"/>
+        <toc-element topic="influenciadores.md"/>
         <toc-element topic="afiliados.md"/>
+        <toc-element topic="anuncios.md"/>
         <toc-element topic="restrições.md"/>
         <toc-element topic="propostas.md"/>
-        <toc-element topic="influenciadores.md"/>
     </toc-element>
     <toc-element toc-title="Arquivos de Consulta (Plugins)" hidden="false">
     <toc-element toc-title="Administração" hidden="false">

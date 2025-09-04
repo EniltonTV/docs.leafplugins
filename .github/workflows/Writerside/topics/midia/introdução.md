@@ -72,13 +72,13 @@
             <tr>
                 <td width="1"></td>
                 <td><control>Visualizações totais</control></td>
-                <td>+90.0000</td>
+                <td>+90.000</td>
             </tr>
         </table>
         <sub><emphasis>Última atualização: 20/07/2025. Dados retirados de dashboards internos*</emphasis></sub>
     </tab>
     <tab title="Execução de plugins">
-        <img src="leaf-graficos.png">
+        <img src="grafico_pizza.png">
         <sub><emphasis>Você pode visualizar atualizado em: <a href="https://bstats.org/plugin/bukkit/LeafPlugins/20622"/></emphasis></sub>
     </tab>
 </tabs>

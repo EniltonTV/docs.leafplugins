@@ -1,6 +1,6 @@
-# Seja um afiliado ou influenciador
+# Faça parte do programa de afiliados
 
-## Programa de afiliados
+## Vantagens
 
 <p>
     Para começar a ganhar comissões por suas indicações, é necessário ser um cliente da Leaf Plugins. Na compra de qualquer produto do nosso catálogo — em qualquer valor —, você já pode se tornar um afiliado.<br>

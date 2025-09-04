@@ -121,3 +121,10 @@
 <p>
     Você deverá realizar a inscrição por meio de um formulário via Google Forms, no seguinte link: <a href="https://forms.gle/QYaS2dsp6MRRhgKGA"/>. Logo em seguida, nossa equipe irá analisar a viabilidade da sua proposta. Abra um ticket em nosso Discord e esclareça eventuais dúvidas.
 </p>
+
+<seealso style="cards" title="Continue visualizando">
+    <category ref="wrs">
+        <a href="restrições.md"/>
+        <a href="propostas.md"/>
+    </category>
+</seealso>
