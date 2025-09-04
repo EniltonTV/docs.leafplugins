@@ -26,7 +26,3 @@
     </li>
 </list>
 
-<p>
-    Além disso, pretendemos expandir saindo do segmento de plugins de Minecraft e caminhando para o de roupas e acessórios. Nessa expansão, queremos envolver os nossos parceiros, trazendo eventos que deem como premiação essas peças aos jogadores e também iremos fornecer a primeira edição — e subsequentes — gratuitamente aos donos(as) dos projetos.
-</p>
-

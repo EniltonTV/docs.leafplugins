@@ -15,7 +15,7 @@
                 Oferecemos licenças temporárias aos criadores que divulgarem algum de nossos produtos. Cada publicação referente aos nossos plugins que alcançarem mais de 1.000 visualizações terão direito a concessão de licenças permanentes;
             </li>
             <li>
-                Monetizaremos os conteúdos que apresentarem nossos produtos e tiverem bons resultados em números de visualizações e curtidas. É interessante que seja perceptível o engajamento sobre a publicação.
+                Monetizaremos os conteúdos que apresentarem nossos produtos e tiverem bons resultados em números de visualizações e curtidas. Visualizações, curtidas e comentários.
             </li>
         </list>
     </li>
@@ -36,7 +36,7 @@
             Já ter gravado um conteúdo sobre algum plugin da loja, que seja entendido como positivo;
         </li>
         <li>
-            Sempre que um novo plugin for lançado, o(a) influenciador(a) terá o prazo de de até duas semanas para postá-lo..
+            Sempre que um novo plugin for lançado, o(a) influenciador(a) terá o prazo de de até duas semanas para postá-lo.
         </li>
         </list>
     </li>

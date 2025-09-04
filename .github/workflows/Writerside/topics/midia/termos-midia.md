@@ -1,4 +1,4 @@
-# Termos do Midia Kit
+# Termos do Mídia Kit
 
 ## Objetivo
 
@@ -57,7 +57,7 @@
 ## Condições da Divulgação - Parcerias
 
 <p>
-    <control>Responsabilidade pela Divulgação</control>: A divulgação será realizada pelos próprios parceiros em um canal exclusivo para isso, sem a necessidade de intervenção da equipe da Leaf Plugins.<br>
+    <control>Responsabilidade pela Divulgação</control>: a divulgação será realizada pelos próprios parceiros em um canal exclusivo para isso, sem a necessidade de intervenção da equipe da Leaf Plugins.<br>
     <br>
     Para garantir a organização no servidor Discord da Leaf Plugins, apenas um parceiro poderá executar o comando “everyone" por dia. Esta condição também é válida caso algum membro da Leaf Plugins tenha executado o comando no mesmo dia. O @everyone menciona todos os membros do grupo e, por isso, deve ser utilizado com moderação. Solicitações feitas com 24 horas de antecedência, a depender também da gravidade do requerimento e em concordância com a equipe da Leaf Plugins, serão deferidas.<br>
     <br>

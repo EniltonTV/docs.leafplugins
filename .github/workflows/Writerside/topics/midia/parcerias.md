@@ -268,7 +268,7 @@ Projetos relacionados a outros jogos ou outras iniciativas são sempre bem-vindo
     </li>
 </list>
 
-#### 3. Requisitos técnicos e operacionais da empresa
+#### 3. Requisitos técnicos e operacionais
 
 <list type="none">
     <li>
