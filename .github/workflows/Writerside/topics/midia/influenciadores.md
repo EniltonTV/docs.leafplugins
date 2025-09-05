@@ -15,7 +15,7 @@
                 Oferecemos licenças temporárias aos criadores que divulgarem algum de nossos produtos. Cada publicação referente aos nossos plugins que alcançarem mais de 1.000 visualizações terão direito a concessão de licenças permanentes;
             </li>
             <li>
-                Monetizaremos os conteúdos que apresentarem nossos produtos e tiverem bons resultados em números de visualizações e curtidas. Visualizações, curtidas e comentários.
+                Monetizaremos os conteúdos que apresentarem nossos produtos e tiverem bons resultados em números de visualizações e curtidas.
             </li>
         </list>
     </li>

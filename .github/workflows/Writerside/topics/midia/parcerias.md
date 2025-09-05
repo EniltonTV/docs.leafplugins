@@ -20,7 +20,7 @@
 </p>
 
 ### Servidores de Minecraft {id="minecraft"}
-<primary-label ref="strawberry"/>
+<primary-label ref="tangerine"/>
 
 #### 1. Requisitos Numéricos
 
@@ -140,7 +140,7 @@
     </li>
 </list>
 
-##### Em relação ao servidor no discord:
+### Em relação ao servidor no discord:
 
 <list type="none">
     <li>
@@ -306,7 +306,7 @@ Projetos relacionados a outros jogos ou outras iniciativas são sempre bem-vindo
 
 <seealso style="cards" title="Continue visualizando">
     <category ref="wrs">
-        <a href="restrições.md"/>
+        <a href="restricoes.md"/>
         <a href="propostas.md"/>
     </category>
 </seealso>

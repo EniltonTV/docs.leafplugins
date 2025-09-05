@@ -43,13 +43,13 @@
 ## Anúncios pagos {id="pagos"}
 
 <p>
-    Nesta opção, você pagará um determinado valor e seu anúncio será postado no nosso canal de <a href="https://discordapp.com/channels/901627752392843296/959224113220710451">📢・anúncios.</a> <control>Está divulgação permanecerá na sala de anúncios eternamente, assim como os demais anúncios presentes feitos anteriormente pela equipe.</control>  Oferecemos duas opções de divulgação nesse formato, são elas:
+    Nesta opção, você pagará um determinado valor e seu anúncio será postado no nosso canal de <a href="https://discordapp.com/channels/901627752392843296/959224113220710451">📢・anúncios.</a> <control>Esta divulgação permanecerá na sala de anúncios, assim como os demais anúncios presentes feitos anteriormente pela equipe.</control>  Oferecemos duas opções de divulgação nesse formato, são elas:
 </p>
 
 <list type="none">
     <li>
-        <list type="bullet">
-        <li><control>Com @everyone ou @here<br></control>
+        <list type="none">
+        <li><control>> Com @everyone ou @here<br></control>
             <p>
                 Seu anúncio será postado na sala principal de anúncios do servidor com uma marcação geral.<br><br>
                 Ping: incluso comando @everyone ou @here<br>
@@ -58,7 +58,7 @@
                 Preço: 200,00 BRL
             </p>
         </li>
-        <li><control>Sem @everyone</control>
+        <li><control> > Sem @everyone</control>
             <p>
                 Seu anúncio será postado na sala principal de anúncios do servidor sem pings.<br><br>
                 Ping: não incluso comando @everyone e nem @here<br>
@@ -124,7 +124,7 @@
 
 <seealso style="cards" title="Continue visualizando">
     <category ref="wrs">
-        <a href="restrições.md"/>
+        <a href="restricoes.md"/>
         <a href="propostas.md"/>
     </category>
 </seealso>

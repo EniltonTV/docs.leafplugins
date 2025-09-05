@@ -3,52 +3,52 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi"
-                 name="Documentação &amp; Utilitários"
-                 start-page="introdução-docs.topic">
+                 name="* Documentação da Leaf Plugins *"
+                 start-page="introducao-docs.topic">
 
-        <toc-element topic="introdução-docs.topic"/>
-        <toc-element topic="termos-serviços.md"/>
+        <toc-element topic="introducao-docs.topic"/>
+        <toc-element topic="termos-servicos.md"/>
         <toc-element toc-title="Arquivos de Consulta (Utilitários)" hidden="false">
-        <toc-element topic="introdução-serviços.md"/>
-        <toc-element topic="versões-premium.md"/>
+        <toc-element topic="introducao-servicos.md"/>
+        <toc-element topic="versoes-premium.md"/>
         <toc-element topic="conditions.md"/>
         <toc-element topic="api-desenvolvedores.md"/>
-        <toc-element topic="dependências-utilitários.md"/>
-            <toc-element topic="criação-items.md"/>
+        <toc-element topic="dependencias-utilitarios.md"/>
+            <toc-element topic="criacao-items.md"/>
     </toc-element>
     <toc-element toc-title="Arquivos de Consulta (Mídia)" hidden="false">
-        <toc-element topic="introdução.md"/>
+        <toc-element topic="introducao.md"/>
         <toc-element topic="termos-midia.md"/>
         <toc-element topic="parcerias.md"/>
-        <toc-element topic="beneficios.md"/>
-        <toc-element topic="vantagens.md"/>
+        <toc-element topic="solicitamos.md"/>
+        <toc-element topic="oferecemos.md"/>
         <toc-element topic="influenciadores.md"/>
         <toc-element topic="afiliados.md"/>
         <toc-element topic="anuncios.md"/>
-        <toc-element topic="restrições.md"/>
+        <toc-element topic="restricoes.md"/>
         <toc-element topic="propostas.md"/>
     </toc-element>
     <toc-element toc-title="Arquivos de Consulta (Plugins)" hidden="false">
     <toc-element toc-title="Administração" hidden="false">
-        <toc-element topic="LeafPunish.md"/>
+        <toc-element topic="punish.md"/>
     </toc-element>
     <toc-element toc-title="Customização" hidden="false">
-        <toc-element topic="LeafTags.md"/>
-        <toc-element topic="LeafMedals.md"/>
+        <toc-element topic="tags.md"/>
+        <toc-element topic="medals.md"/>
     </toc-element>
     <toc-element toc-title="Combate" hidden="false">
-        <toc-element topic="LeafCombatlog.md"/>
-        <toc-element topic="LeafMito.md"/>
-        <toc-element topic="LeafX1.md"/>
+        <toc-element topic="combatlog.md"/>
+        <toc-element topic="mito.md"/>
+        <toc-element topic="x1.md"/>
     </toc-element>
     <toc-element toc-title="Utilidades" hidden="false">
-        <toc-element topic="LeafStatsView.md"/>
-        <toc-element topic="LeafHideLogs.md"/>
-        <toc-element topic="LeafScore.md"/>
-        <toc-element topic="LeafMysteryBox.md"/>
+        <toc-element topic="statsview.md"/>
+        <toc-element topic="hidelogs.md"/>
+        <toc-element topic="score.md"/>
+        <toc-element topic="mysterybox.md"/>
     </toc-element>
     <toc-element toc-title="Grupos" hidden="false">
-        <toc-element topic="LeafGuilds.md"/>
+        <toc-element topic="guilds.md"/>
     </toc-element>
     </toc-element>
         <toc-element toc-title="API Status" href="https://statuspage.freshping.io/64952-LeafPlugins"/>

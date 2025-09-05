@@ -1,6 +1,6 @@
 # Propostas disponíveis
 
-<sup>Última atualização - 09/08/2025*</sup>
+<p>Projetos alinhados aos nossos valores e objetivos são de suma importância, pois garantem satisfação de ambas as partes. Assim nossa filtragem de proposta é validada para parceiros e anunciantes.</p>
 
 <list type="none">
     <li>
@@ -26,7 +26,7 @@
 
 <seealso style="cards" title="Continue visualizando">
     <category ref="wrs">
-        <a href="beneficios.md"/>
-        <a href="vantagens.md"/>
+        <a href="solicitamos.md"/>
+        <a href="oferecemos.md"/>
     </category>
 </seealso>
