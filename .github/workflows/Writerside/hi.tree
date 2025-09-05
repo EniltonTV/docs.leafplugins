@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi"
-                 name="* Documentação da Leaf Plugins *"
+                 name=" Documentação da Leaf Plugins"
                  start-page="introducao-docs.topic">
 
         <toc-element topic="introducao-docs.topic"/>
