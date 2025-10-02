@@ -5,7 +5,7 @@
 </p>
 
 <p>
-    No início, a então intitulada Leaf Code foi planejada com o intuito de disponibilizar os códigos open-source (aberto para todos), todavia, devido a pessoas má-intencionadas que crackeiam, pirateiam ou modificam pequenas coisas e depois vendem a preços elevados, Flávio começou a produzir plugins para download gratuito e depois os colocava em fóruns, comunidades do Discord, e outras plataformas. Esta mudança culminou em uma reformulação no nome, passando a se chamar Leaf Plugins.
+    No início, a então intitulada Leaf Code foi planejada com o intuito de disponibilizar os códigos open-source (aberto para todos), todavia, devido a pessoas má-intencionadas que pirateiam ou modificam pequenas coisas e depois vendem a preços elevados, Flávio começou a produzir plugins para download gratuito e depois os colocava em fóruns, comunidades do Discord, e outras plataformas. Esta mudança culminou em uma reformulação no nome, passando a se chamar Leaf Plugins.
 </p>
 
 <p>
