@@ -1,15 +1,15 @@
 # Seja um parceiro
 
 <p>
-    A Leaf Plugins é uma empresa séria e dedicada ao desenvolvimento de plugins com foco em qualidade. Temos um portfólio sólido, reconhecimento no mercado e uma busca real pela inovação e o suporte contínuo. Nos orgulhamos em trazer produtos que agregam valor e profissionalismo à comunidade de Minecraft.
+    A Leaf Plugins é uma empresa séria e dedicada ao desenvolvimento de plugins com foco em qualidade, com um portfólio sólido, reconhecimento no mercado e uma busca real pela inovação e suporte contínuo. Nos orgulhamos em trazer produtos que agregam valor e profissionalismo à comunidade de Minecraft.
 </p>
 
 <p>
-    Por isso, visamos estabelecer parcerias com servidores, comunidades e/ou empresas que compartilham do mesmo padrão de excelência, seja em organização, ética, estrutura ou compromisso com as pessoas. Todas as nossas parcerias precisam refletir o mesmo nível de responsabilidade, seriedade e qualidade que almejamos trazer diariamente para os nossos clientes.
+    Portanto, visamos estabelecer parcerias com servidores, comunidades e/ou empresas que compartilham do mesmo padrão de excelência, seja em organização, ética, estrutura ou compromisso com as pessoas. Todas as nossas parcerias precisam refletir o mesmo nível de responsabilidade, seriedade e qualidade que almejamos trazer diariamente para os nossos clientes.
 </p>
 
 <p>
-    Vale ressaltar que as nossas exigências não são baseadas, em sua totalidade, nos números que o seu projeto alcança. Nós enxergamos que uma parceria vai muito além disso. Priorizamos interessados que já tenham uma relação de longa data com a loja e queiram construir algo ainda mais longevo.
+    Vale ressaltar que as nossas exigências não são baseadas, em sua totalidade, nos números que o seu projeto alcança. Enxergamos que uma parceria vai muito além disso. Priorizamos interessados que já tenham uma relação de longa data com a loja e queiram construir algo ainda mais longevo.
 </p>
 
 ## Quais são nossos requisitos?
@@ -35,7 +35,7 @@
                 Comunidade do Discord: pelo menos 50% do servidor da Leaf Plugins (isto é, se a leaf possui 1.900 membros, você deverá ter 950 membros, respectivamente);
             </li>
             <li>
-                Presença nas redes sociais: ao menos um (1) canal ativo (Tik Tok, YouTube, Instagram, entre outras).
+                Presença nas redes sociais: ao menos um (1) canal ativo (Tik Tok, YouTube, Instagram, entre outros).
             </li>
             <li>
                 Tempo de atividade total: mínimo 3 meses;
@@ -113,13 +113,13 @@
     <li>
         <list type="bullet">
             <li>
-                Servidor organizado: comandos e ambientes intuitivos (fácil de achar warps e outras áreas do servidor), acesso visual limpo sem poluição de placas ou NPCs, sem mensagens padrão dos plugins, possuir tutorial básico para iniciantes, estética condizente com o tema do servidor, incluindo interfaces visuais organizadas (como scoreboard e huds), e entre outros fatores;
+                Servidor organizado: comandos e ambientes intuitivos (fácil de achar warps e outras áreas do servidor), acesso visual limpo sem poluição de placas ou NPCs, sem mensagens padrão dos plugins, possuir tutorial básico para iniciantes, estética condizente com o tema do servidor, incluindo interfaces visuais organizadas (como scoreboard e huds), entre outros fatores;
             </li>
             <li>
                 Plugins configurados com foco na proposta do servidor e traduzidos corretamente (se for o caso da utilização de plugins gringos);
             </li>
             <li>
-                Staff com acesso controlado (sem distribuir OP ou ter grandes descuidos nas permissões);
+                Staff com acesso controlado (sem distribuir "OP" ou ter grandes descuidos nas permissões);
             </li>
             <li>
                 Construções de qualidade;
@@ -203,7 +203,7 @@ Projetos relacionados a outros jogos ou outras iniciativas são sempre bem-vindo
                 Tempo de atividade total: mínimo 3 meses;
             </li>
             <li>
-                Presença nas redes sociais: ao menos um (1) canal ativo (Tik Tok, YouTube, Instagram, etc).
+                Presença nas redes sociais: ao menos um (1) canal ativo (Tik Tok, YouTube, Instagram, entre outros).
             </li>
         </list>
     </li>
@@ -292,10 +292,10 @@ Projetos relacionados a outros jogos ou outras iniciativas são sempre bem-vindo
                 No mínimo 10 avaliações positivas;
             </li>
             <li>
-                Manter os serviços/produtos atualizados e em conformidade com as Leis brasileiras;
+                Manter os serviços/produtos atualizados e em conformidade com as leis brasileiras;
             </li>
             <li>
-                Manter os serviços/produtos atualizados e em conformidade com as Leis brasileiras;
+                Manter os serviços/produtos atualizados e em conformidade com as leis brasileiras;
             </li>
             <li>
                 O projeto deve possuir regras e/ou termos claros e acessíveis.
