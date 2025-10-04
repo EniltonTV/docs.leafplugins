@@ -9,7 +9,7 @@
 </p>
 
 <p>
-    Vale ressaltar que as nossas exigências não são baseadas, em sua totalidade, nos números que o seu projeto alcança. Enxergamos que uma parceria vai muito além disso. Priorizamos interessados que já tenham uma relação de longa data com a loja e queiram construir algo ainda mais longevo.
+    Vale ressaltar que as nossas exigências não são baseadas, em sua totalidade, nos números que o seu projeto alcança. Enxergamos que uma parceria vai muito além disso. Priorizamos interessados que já tenham uma relação de longa data com a loja e queiram construir algo ainda mais longevo conosco.
 </p>
 
 ## Quais são nossos requisitos?
