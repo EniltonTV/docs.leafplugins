@@ -1,4 +1,4 @@
-# Faça parte do programa de afiliados
+# Programa de afiliados
 
 ## Vantagens
 
