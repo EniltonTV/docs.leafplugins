@@ -12,10 +12,10 @@
                 Divulgação no nosso servidor Discord, no canal <a href="https://discordapp.com/channels/901627752392843296/1271637615409364992">“🎥・videos-youtube”</a>; 
             </li>
             <li>
-                Oferecemos licenças temporárias aos criadores que divulgarem algum de nossos produtos. Cada publicação referente aos nossos plugins que alcançarem mais de 1.000 visualizações terão direito a concessão de licenças permanentes;
+                Oferecemos licenças temporárias aos criadores que divulgarem algum de nossos produtos. Cada publicação referente aos nossos plugins que alcançarem mais de 1.000 visualizações terão direito à concessão de licenças permanentes;
             </li>
             <li>
-                Monetizaremos os conteúdos que apresentarem nossos produtos e tiverem bons resultados em números de visualizações e curtidas.
+                Monetizaremos os conteúdos que apresentarem nossos produtos e bons resultados em números de visualizações e curtidas.
             </li>
         </list>
     </li>
@@ -45,5 +45,5 @@
 ### 1. Como participar? {id="influenciadores"}
 
 <p>
-    Caso cumpra os requisitos citados abaixos, preencha o formulário a seguir: <a href="https://forms.gle/QYaS2dsp6MRRhgKGA"/>. Em seguida, nossa equipe irá analisar as suas respostas. Abra um ticket em nosso Discord e esclareça quaisquer dúvidas.
+    Caso cumpra os requisitos citados abaixo, preencha o formulário a seguir: <a href="https://forms.gle/QYaS2dsp6MRRhgKGA"/>. Em seguida, nossa equipe irá analisar as suas respostas. Abra um ticket em nosso Discord e esclareça quaisquer dúvidas.
 </p>
