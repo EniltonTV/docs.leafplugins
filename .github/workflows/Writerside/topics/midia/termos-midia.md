@@ -6,6 +6,22 @@
     O Mídia Kit tem como objetivo estabelecer a clareza diante os valores da Leaf Plugins na hora de firmar divulgações que estejam intrinsecamente associadas à empresa. Buscamos criar uma rede colaborativa e de crescimento mútuo entre as partes.
 </p>
 
+## Definições
+
+<p>
+    I. <control>Parceiro</control>: pessoa física ou jurídica aprovada pela Leaf Plugins para cooperação contínua em ações de divulgação nos canais oficiais;<br>
+    <br>
+    II. <control>Anunciante</control>: pessoa física ou jurídica que adquire espaço de mídia/divulgação nos canais oficiais da Leaf Plugins, conforme regras e prazos definidos;<br>
+    <br>
+    III. <control>Afiliado</control>: participante autorizado a indicar a Leaf Plugins mediante cupom e/ou URL rastreável, com possibilidade de comissão conforme critérios de elegibilidade e políticas vigentes;<br>
+    <br>
+    IV. <control>Influenciador</control>: criador(a) de conteúdo que promove a Leaf Plugins em seus próprios canais digitais, conforme briefing, diretrizes de marca e cronograma aprovados;<br>
+    <br>
+    V. <control>Campanha</control>: conjunto organizado de ações de divulgação com objetivo, período, canais, métricas e orçamento definidos, conforme anexo ou comunicação oficial;<br>
+    <br>
+    VI. <control>Entregáveis</control>: peças, publicações, menções, formatos e demais conteúdos ou ações especificados para execução da Campanha, incluindo requisitos de publicação, prazos e comprovações.
+</p>
+
 ## Sobre as responsabilidades
 
 <p>
@@ -28,18 +44,24 @@
     A continuidade da parceria depende estritamente do compromisso constante com os requisitos acordados e com os valores da empresa.
 </p>
 
-## Da Remoção
+## Da Remoção de Parcerias e Anunciantes
 
 <p>
-    Se as condições não forem cumpridas, a Leaf Plugins poderá remover a parceria ou o anúncio.<br>
+    A Leaf Plugins poderá remover a parceria ou o anúncio caso as condições estabelecidas não sejam cumpridas.<br>
     <br>
-    A Leaf Plugins reserva-se o direito de banir permanentemente parceiros, anunciantes ou afiliados, bem como a suspensão de contas vinculadas nas nossas plataformas (Discord e Website), tal como seus representantes, caso seja comprovado algum crime ou delito.<br>
+    Em situações de não conformidade com as diretrizes acordadas, a parceria ou o anúncio poderão ser encerrados, preservando o respeito e a transparência. <br>
     <br>
-    Todos(as) os(as) envolvidos(as) serão informados quanto a qualquer alteração neste documento, ou, eventualmente, sobre o rompimento de parceria, anúncio, cupom de afiliado ou contrato de influenciador.<br>
+    Tanto o parceiro quanto o anunciante serão informados sobre qualquer remoção de forma a garantir a continuidade das boas práticas por parte de ambos os lados. <br>
     <br>
-    O afiliado tem direito a um cupom exclusivo para repassar aos seus indicados. No entanto, a Leaf Plugins reserva-se o direito de remover o cupom de afiliado a qualquer momento se houver descumprimento por parte do afiliado em relação as regras estabelecidas, demonstrar desrespeito com a equipe ou com outros membros da comunidade, ou praticar ações inadequadas que possam comprometer a imagem da Leaf Plugins.<br>
+    A Leaf Plugins se reserva ao direito de banir permanentemente parceiros/anunciantes e também a suspender contas vinculadas nas nossas plataformas (Discord e Website), tal como seus representantes, caso seja comprovado algum crime ou delito.
+</p>
+
+## Da Remoção de Afiliados
+
+<p>
+    O afiliado tem direito a um cupom exclusivo para repassar aos seus indicados. Contudo, a Leaf Plugins se reserva o direito de remover o cupom de afiliado a qualquer momento caso o afiliado venha a descumprir as regras estabelecidas, demonstrar desrespeito com a equipe ou com outros membros da comunidade, ou praticar ações inadequadas que possam comprometer a imagem da Leaf Plugins.<br>
     <br>
-    A remoção do cupom, nestes casos, será feita sem aviso prévio. O então afiliado pode vir a ser comunicado após a remoção acerca do motivo, a depender do crivo dos integrantes da equipe.
+    O então afiliado pode vir a ser comunicado após a remoção acerca do motivo, a depender do crivo dos integrantes da equipe.
 </p>
 
 ## Das Condições de Cancelamento para Anunciantes
@@ -59,29 +81,51 @@
     <br>
     Para garantir a organização no servidor Discord da Leaf Plugins, apenas um parceiro poderá executar a menção “everyone" por dia. Esta condição também é válida se algum membro da Leaf Plugins tenha executado o comando no mesmo dia. O @everyone menciona todos os membros do grupo, portanto, deve ser utilizado com moderação. Solicitações feitas com 24 horas de antecedência, a depender também da gravidade do requerimento e em concordância com a equipe da Leaf Plugins, serão deferidas.<br>
     <br>
-    Se ocorrer encerramento da parceria, o canal no Discord da Leaf Plugins será arquivado ou removido e os benefícios concedidos pela empresa serão prontamente retirados.
+    Caso a parceria seja encerrada, o canal no Discord da Leaf Plugins será arquivado ou removido e os benefícios concedidos pela empresa serão prontamente retirados.
 </p>
 
 ## Condições da Divulgação - Anúncios
 
 <p>
-    Os anúncios são feitos em períodos específicos, estabelecidos de duas formas: conforme a preferência de cada comprador e mediante a disponibilidade para enviar o anúncio..<br>
-    <br>
     A contagem de dias para a divulgação começa a partir da data e hora da publicação inicial feita pela equipe da Leaf Plugins.<br>
     <br>
     Não será possível pausar ou adiar após o início da veiculação. A divulgação será executada conforme o cronograma acordado, sem interrupções, exceto em casos de problemas técnicos.<br>
-    <br>
-    Em caso de problemas técnicos, a equipe poderá remarcar a postagem em comum acordo com o anunciante.<br>
     <br>
     Para garantir a organização no servidor Discord da Leaf Plugins, apenas um anunciante poderá executar a menção “everyone" por dia. Esta condição também é válida caso algum membro da Leaf Plugins tenha realizado a menção no mesmo dia. O @everyone menciona todos os membros do grupo, portanto, deve ser utilizado com moderação. Solicitações feitas com 24 horas de antecedência, a depender também da gravidade do requerimento e em concordância com a equipe da Leaf Plugins, serão deferidas.<br>
     <br>
     Após o período contratado, a divulgação será arquivada ou removida.
 </p>
 
-## Revisão de Publicação e Conteúdo  - Parceiros e Anunciantes
+## Condições dos Afiliados
 
 <p>
-    A equipe da Leaf Plugins se reserva ao direito de revisar textos submetidos para garantir que atendam uma comunicação assertiva, podendo realizar correções, mas sem deturpar o sentido. As correções passarão por análise do parceiro ou anunciante. 
+    O afiliado se compromete a promover a Leaf Plugins conforme orientações fornecidas, utilizando corretamente o cupom, links e materiais disponibilizados, observando os prazos e formatos definidos, bem como as Diretrizes de Marca e as regras das plataformas. A divulgação deve ser transparente, com indicação clara quando houver natureza publicitária, respeitando as normas aplicáveis, inclusive o Conselho Nacional de Autorregulamentação Publicitária - CONAR e a LGPD, sendo vedado tratar dados pessoais de usuários em nome da Leaf sem autorização escrita e instruções específicas.<br>
+    <br>
+    A remuneração do afiliado, quando existente, observará as políticas vigentes, incluindo percentual de comissão, evento-gatilho de pagamento, janela de atribuição, prazos e forma de repasse, com possibilidade de ajustes em casos de chargebacks (termo em inglês para estornos) ou fraudes identificadas. O afiliado deverá manter registros e, quando solicitado, apresentar comprovações de publicações e métricas relacionadas às indicações, sujeitando-se à auditoria razoável dos resultados.<br>
+    <br>
+    Ficam proibidos conteúdos ilícitos, ofensivos, enganosos ou que violem direitos de terceiros, a compra de tráfego inválido, seguidores ou engajamento artificial, o uso de marcas e materiais da Leaf fora do escopo aprovado e comparações depreciativas a concorrentes. Em caso de descumprimento das regras, risco à marca, fraude de métricas ou violação legal, a Leaf poderá suspender divulgações, reter valores vincendos até apuração e rescindir a participação do afiliado.
+</p>
+
+## Condições dos Influenciadores
+
+<p>
+    Considera-se influenciador(a) o criador de conteúdo que promove a Leaf Plugins em canais digitais próprios, condicionado a cadastro e aprovação prévia. O influenciador produzirá e publicará conteúdos conforme briefing (documento que resume informações essenciais sobre um projeto, campanha ou tarefa, servindo como um guia detalhado para a equipe) e cronograma aprovados, incluindo postagens, stories/shorts, vídeos, lives, menções e inserções de links ou cupons quando aplicável, devendo cumprir prazos e formatos definidos.<br>
+    <br>
+    A divulgação deverá observar rotulagem de publicidade (#publi, “parceria paga” ou equivalente), as regras do CONAR, os termos das plataformas e as Diretrizes de Marca da Leaf, com uso correto de logos, nomes, links e cupons. Conteúdos, roteiros e legendas podem exigir prévia aprovação; ajustes motivados por conformidade legal, briefing ou segurança de marca são obrigatórios e não geram custo adicional.<br>
+    <br>
+    O influenciador enviará, quando solicitado, links, capturas, relatórios e métricas, ficando sujeito à auditoria razoável dos resultados vinculados à campanha. Os conteúdos autorais permanecem de titularidade do influenciador, que concede à Leaf licença não exclusiva, mundial e por prazo definido em anexo, para uso institucional e comercial.<br>
+    <br>
+    É vedado reutilizar ativos da Leaf em favor de concorrentes sem autorização expressa. É proibido tratar dados pessoais de usuários em nome da Leaf sem autorização escrita e instruções específicas, devendo ser observada a LGPD e demais normas aplicáveis.<br>
+    <br>
+    Ficam vedados conteúdos ilícitos, ofensivos, enganosos, discriminatórios ou que violem direitos de terceiros ou a segurança de marca; promessas de resultados não verificáveis; comparações depreciativas a concorrentes; compra de seguidores, engajamento artificial ou fraude de métricas; e o uso de marcas, artes, materiais ou informações técnicas da Leaf fora do escopo aprovado. Em caso de violação, a Leaf poderá suspender publicações, exigir retratação, reter valores vincendos até apuração, remover o influenciador do programa e rescindir a colaboração, remunerando apenas o entregue lícito na forma do anexo aplicável.
+</p>
+
+## Revisão de Publicação e Conteúdo  - Parceiros, Anunciantes e Influenciadores
+
+<p>
+    A Leaf Plugins poderá revisar e aprovar previamente textos e peças (incluindo artes, roteiros, legendas, títulos, miniaturas, ajustando forma e conteúdo para garantir comunicação assertiva, conformidade legal (CONAR, LGPD e regras de plataformas) e aderência às Diretrizes de Marca, sem deturpar o sentido.<br>
+    <br>
+    Se a Leaf solicitar ajustes por briefing, conformidade legal ou segurança de marca, você deve realizá-los dentro do prazo comunicado. Conteúdos em desacordo podem ser recusados, refeitos, suspensos ou despublicados; em caso de risco jurídico ou reputacional, a despublicação poderá ser imediata, com comunicação posterior. O parceiro, anunciante ou influenciador permanece responsável pelas declarações e pelo conteúdo de sua autoria.
 </p>
 
 ## Suporte
@@ -96,13 +140,13 @@
     <li>
         <list type="none">
         <li>
-            Ao firmar uma parceria, adquirir um anúncio ou se tornar um afiliado, o usuário concorda com todos os termos e condições estabelecidos neste documento.
+            Ao firmar parceria, adquirir anúncio, integrar o programa de afiliados ou atuar como influenciador, o usuário declara que leu, compreendeu e aceita integralmente estes Termos e os documentos a eles vinculados (incluindo diretrizes de marca, políticas operacionais e anexos específicos de campanha/cupom). Em caso de conflito, prevalece a seguinte ordem: (I) estes Termos; (II) políticas e guias oficiais da Leaf Plugins; (III) anexos de campanha/cupom; (IV) comunicações operacionais.
         </li>
-        <li>
+        <li> 
             A Leaf Plugins pode alterar os termos a qualquer momento. Caso haja alterações, o parceiro será notificado com pelo menos 24 (vinte e quatro) horas de antecedência. A continuidade da parceria após as modificações implica na aceitação dos novos termos.
         </li>
         <li>
-            As versões atualizadas do Mídia Kit estarão sempre disponíveis via Google Formulário ou nos demais canais oficiais da empresa.
+            Campanhas, divulgações e entregáveis em curso permanecem regidos pelas condições específicas já acordadas até sua conclusão, salvo necessidade de ajuste imediato por exigência legal, de plataforma ou por risco relevante à integridade da marca, hipóteses em que a Leaf Plugins poderá determinar adequações mínimas necessárias. As versões atualizadas destes Termos e do Mídia Kit permanecerão disponíveis em Google Formulário e/ou demais canais oficiais da Leaf Plugins (Discord e website), com indicação de data de atualização. Tolerâncias ou omissões não importam renúncia, e eventual nulidade parcial não invalida as demais disposições.
         </li>
         </list>
     </li>

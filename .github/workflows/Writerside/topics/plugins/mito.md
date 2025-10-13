@@ -8,13 +8,10 @@
 
 <list>
     <li>
-        Citzens - crie um NPC para o mito atual (para consultar as versões <a href="dependencias-utilitarios.md" anchor="depend-citzens"> clique aqui</a>);
+        Decent Holograms/Holographics Displays - crie hologramas para visualização o mito;
     </li>
     <li>
-        Decent Holograms/Holographics Displays - crie hologramas para o mito;
-    </li>
-    <li>
-        LeafDiscord - anuncie sempre que um novo jogador se tornar o mito.
+        Citzens2, zNPCSplus e FancyNpcs - crie npcs para visualização do mito.
     </li>
 </list>
 

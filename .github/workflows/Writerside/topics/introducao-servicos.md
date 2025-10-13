@@ -18,6 +18,7 @@
 <secondary-label ref="version-1.20"/>
 <secondary-label ref="version-1.21.5"/>
 <secondary-label ref="version-1.21.6"/>
+<secondary-label ref="version-1.21.8"/>
 
 <p>Para que nossos plugins possam ser usados é necessário realizar o download de nosso loader <a href="https://leafplugins.com/plugin/LeafPlugins">clique aqui para baixar</a>, após realizar o download basta você adiciona-ló em sua pasta plugins juntanmente com uma dependência externa <a href="https://www.spigotmc.org/resources/placeholderapi.6245/">PlaceholderAPI</a></p>
 

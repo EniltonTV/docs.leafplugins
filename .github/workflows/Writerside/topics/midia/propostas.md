@@ -2,6 +2,8 @@
 
 <p>Projetos alinhados aos nossos valores e objetivos são de suma importância, pois garantem satisfação de ambas as partes. Assim nossa filtragem de proposta é validada para parceiros e anunciantes.</p>
 
+<p>Não é possível realizar parcerias, nem mesmo anúncios pagos, que conflitam ou tenham os mesmos propósitos das parcerias já vigentes.</p>
+
 <list type="none">
     <li>
         <list type="bullet">
@@ -27,6 +29,6 @@
 <seealso style="cards" title="Continue visualizando">
     <category ref="wrs">
         <a href="solicitamos.md"/>
-        <a href="oferecemos.md"/>
+        <a href="vantagens.md"/>
     </category>
 </seealso>

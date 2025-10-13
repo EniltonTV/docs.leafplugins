@@ -86,7 +86,7 @@
 
 <tip>Recomendos o uso exclusivamente do <control>Decent Holograms</control> por possuir atualizações recorentes e suporte ativo.</tip>
 
-## Citzens
+## Citzens {id="citzens"}
 
 <p>Atualmente nossos plugins suportam apenas o citzens para criaçaõ de NPC's em nossos sistemas, abaixo estaremos listando o link de download respectivamente de versões(você deverá usar a versão que corresponde ao seu servidor).</p>
 

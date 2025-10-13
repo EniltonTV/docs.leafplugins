@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi"
-                 name=" Documentação da Leaf Plugins"
+                 name="Documentação da Leaf Plugins"
                  start-page="introducao-docs.topic">
 
         <toc-element topic="introducao-docs.topic"/>
@@ -21,7 +21,7 @@
         <toc-element topic="termos-midia.md"/>
         <toc-element topic="parcerias.md"/>
         <toc-element topic="solicitamos.md"/>
-        <toc-element topic="oferecemos.md"/>
+        <toc-element topic="vantagens.md"/>
         <toc-element topic="influenciadores.md"/>
         <toc-element topic="afiliados.md"/>
         <toc-element topic="anuncios.md"/>
@@ -45,7 +45,7 @@
         <toc-element topic="statsview.md"/>
         <toc-element topic="hidelogs.md"/>
         <toc-element topic="score.md"/>
-        <toc-element topic="mysterybox.md"/>
+        <toc-element topic="crates.md"/>
     </toc-element>
     <toc-element toc-title="Grupos" hidden="false">
         <toc-element topic="guilds.md"/>
